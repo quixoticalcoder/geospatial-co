@@ -8,6 +8,10 @@ The central question is: **how does a location perform against the priorities of
 
 > **Project status:** an early backend implementation. The scoring functions, API routes, CLI, database migration, and graph are included. Geographic datasets, ingestion pipelines, a web frontend, and a production deployment are not. Some API workflows have known integration gaps, documented below; this repository is not a turnkey nationwide dataset or a validated investment model.
 
+## Watch demo video
+
+https://youtu.be/vNFSIz0yl6o?si=tGBLZ6kuQPjr6kHr
+
 ## Contents
 
 - [Capabilities](#capabilities)
